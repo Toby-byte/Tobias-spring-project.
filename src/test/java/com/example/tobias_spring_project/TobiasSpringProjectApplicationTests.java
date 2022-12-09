@@ -3,10 +3,10 @@ package com.example.tobias_spring_project;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class TobiasSpringProjectApplicationTests {
 
-    @Test
+    //@Test
     void contextLoads() {
     }
 
